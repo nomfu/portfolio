@@ -1,0 +1,17 @@
+body{
+background: blue;
+text-align: left;
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+
+p{
+    font-family: arial;
+    font-size: 20px;
+}
+.topnav {
+    background-color: crimson;
+}
